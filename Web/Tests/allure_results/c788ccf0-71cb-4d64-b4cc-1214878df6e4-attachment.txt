@@ -1,0 +1,8 @@
+Initiating Chrome driver
+-----------------------------------------
+Tests is started
+
+Alert message =  Thanks for the message!! 
+
+-----------------------------------------
+Tests is finished

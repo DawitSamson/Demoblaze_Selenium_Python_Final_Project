@@ -1,0 +1,8 @@
+Initiating Chrome driver
+-----------------------------------------
+Tests is started
+
+Alert message =  This user already exist. 
+
+-----------------------------------------
+Tests is finished

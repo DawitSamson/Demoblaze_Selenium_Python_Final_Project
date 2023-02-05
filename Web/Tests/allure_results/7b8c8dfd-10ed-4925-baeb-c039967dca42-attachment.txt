@@ -1,0 +1,8 @@
+Initiating Chrome driver
+-----------------------------------------
+Tests is started
+
+Alert message =  Wrong password. 
+
+-----------------------------------------
+Tests is finished

@@ -1,0 +1,11 @@
+class Locators_SignUp:
+    PAGE_TITLE = "STORE"
+    SIGNUP_OPTION = "//a[@id='signin2']"
+    USERNAME = "//input[@id='sign-username']"
+    PASSWORD = "//input[@id='sign-password']"
+    X_BUTTON = "//body/div[@id='signInModal']/div[1]/div[1]/div[1]/button[1]"
+    SIGNUP_BUTTON = "//button[contains(text(),'Sign up')]"
+    CLOSE_BUTTON = "//body/div[@id='signInModal']/div[1]/div[1]/div[3]/button[1]"
+    ERROR_TEXT1 = "Please fill out Username and Password."
+    SUCCESS_TEXT = "Sign up successful."
+    EXIST_TEXT = "This user already exist."

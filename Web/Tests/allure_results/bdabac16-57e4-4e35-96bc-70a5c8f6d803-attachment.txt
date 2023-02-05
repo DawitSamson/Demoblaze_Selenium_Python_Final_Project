@@ -1,0 +1,8 @@
+Initiating Chrome driver
+-----------------------------------------
+Tests is started
+
+Alert message =  Product added 
+
+-----------------------------------------
+Tests is finished

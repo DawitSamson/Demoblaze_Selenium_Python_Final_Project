@@ -1,0 +1,18 @@
+{
+  "test_login.py::Test_Login::test_ui": true,
+  "test_contact.py::Test_Contact::test_Validate_submitting_the_Contact_Form_in_Contact_page_by_not_providing_any_details": true,
+  "test_contact.py::Test_Contact::test_Validate_entering_invalid_email_address_into_the_EMail_Address_field_and_submit_the_form": true,
+  "test_contact.py::Test_Contact::test_Validate_entering_blank_Name_into_the_Name_field_and_submit_the_form": true,
+  "test_contact.py::Test_Contact::test_Validate_entering_blank_Message_into_the_Message_field_and_submit_the_form": true,
+  "test_contact.py::Test_Contact::test_Validate_entering_Special_Characters_email_address_into_the_EMail_Address_field_and_submit_the_form": true,
+  "test_contact.py::Test_Contact::test_Validate_entering_Special_Characters_Name_into_the_Name_field_and_submit_the_form": true,
+  "test_contact.py::Test_Contact::test_Validate_entering_Special_Characters_Message_into_the_Message_field_and_submit_the_form": true,
+  "test_cart.py": true,
+  "test_aboutUs.py": true,
+  "test_contact.py": true,
+  "test_home.py": true,
+  "test_logOut.py": true,
+  "test_login.py": true,
+  "test_signUp.py": true,
+  "test_login.py::Test_Login::test_E2E_Validate_Login_to_account_from_user_SignUp_to_User_logout": true
+}
